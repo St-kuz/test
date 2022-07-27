@@ -29,8 +29,12 @@
 ## Ветки
 git branch branch_name - добавление ветки
 
-git checkout - перейти на другую ветку
-git log graph - более понятный лог
+git branch - узнать на какой ветке и увидеть остальные
+
+git checkout branch_name - перейти на другую ветку
+
+git log graph - более полный лог
+
 git merge branch_name - в текущую ветку добавляем ветку branch_name
 
 ## Работа с таблицами
